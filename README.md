@@ -61,6 +61,7 @@ amma/
 
 │   └── wsgi.py
 │
+
 ├── weather/
 
 │   ├── views.py
@@ -71,6 +72,7 @@ amma/
 
 │   └── templates/weather.html
 │
+
 ├── weather_project/
 
 │   ├── views.py
@@ -85,6 +87,7 @@ amma/
 
 │       └── itinerary.html
 │
+
 └── static/
     ├── css/
     ├── Html
@@ -160,7 +163,8 @@ WEATHER_API_KEY = "your_api_key_here"
 Developed By
 Yamuna
 🌍 Python & Django Developer
-💼 [LinkedIn Profile](https://www.linkedin.com/in/yamunamca/)]| 🐙 [GitHub Profile]((https://github.com/yamunaraguthu))
+💼 [LinkedIn Profile](https://www.linkedin.com/in/yamunamca/)]| 
+🐙 [GitHub Profile]((https://github.com/yamunaraguthu))
 
 ---
  🪪 License
