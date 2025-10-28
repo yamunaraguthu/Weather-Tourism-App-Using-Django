@@ -54,22 +54,35 @@ amma/
 │
 ├── manage.py
 ├── weather_project/
+
 │   ├── settings.py
+
 │   ├── urls.py
+
 │   └── wsgi.py
 │
 ├── weather/
+
 │   ├── views.py
+
 │   ├── urls.py
+
 │   ├── models.py
+
 │   └── templates/weather.html
 │
 ├── weather_project/
+
 │   ├── views.py
+
 │   ├── urls.py
+
 │   ├── models.py
+
 │   └── templates/tourism/
+
 │       ├── places.html
+
 │       └── itinerary.html
 │
 └── static/
