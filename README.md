@@ -134,11 +134,6 @@ Visit 👉 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 python
 WEATHER_API_KEY = "your_api_key_here"
 
-📸 Screenshots (Optional Section)
-|![Wether details and tourism places]("C:\Users\yamun\OneDrive\Pictures\Screenshots\Screenshot (170).png") | 
-![]("C:\Users\yamun\OneDrive\Pictures\Screenshots\Screenshot (171).png") |
-![]("C:\Users\yamun\OneDrive\Pictures\Screenshots\Screenshot (172).png") |
-
 ---
 
 🧠 What I Learned
