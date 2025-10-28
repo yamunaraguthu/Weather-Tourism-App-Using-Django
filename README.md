@@ -113,7 +113,7 @@ python manage.py runserver
 ---
 6️⃣ View in Browser
 
-Visit 👉 [http://127.0.0.1:8000/]([http://127.0.0.1:8000/?city=Afghanistan/)]
+Visit 👉 [http://127.0.0.1:8000/](http://127.0.0.1:8000/?city=Afghanistan)]
 ---
 🔑 API Setup
 
