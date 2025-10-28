@@ -1,4 +1,4 @@
-# Weather-Tourism-App-Using-Django
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db" /># Weather-Tourism-App-Using-Django
 
 🌦️ Weather and Tourism App using Django
 
@@ -133,10 +133,9 @@ python
 WEATHER_API_KEY = "your_api_key_here"
 
 📸 Screenshots (Optional Section)
-
-| Homepage               | Weather Page                 | Tourism Page                 |
-| ---------------------- | ---------------------------- | ---------------------------- |
-| ![Home](docs/home.png) | ![Weather](docs/weather.png) | ![Tourism](docs/tourism.png) |
+|![Wether details and tourism places]("C:\Users\yamun\OneDrive\Pictures\Screenshots\Screenshot (170).png") | 
+![]("C:\Users\yamun\OneDrive\Pictures\Screenshots\Screenshot (171).png") |
+![]("C:\Users\yamun\OneDrive\Pictures\Screenshots\Screenshot (172).png") |
 
 ---
 
