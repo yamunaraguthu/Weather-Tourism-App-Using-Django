@@ -20,8 +20,6 @@ I practiced all key steps manually:
 * Designing templates
 * Configuring URLs and views
 * Testing the project from the terminal
-
-This helped me understand how Django works internally and improved my full-stack development skills.
 ---
 ⚙️ Features
 ✅ Real-Time Weather Info and Temperature — fetches live weather details using the OpenWeatherMap API
