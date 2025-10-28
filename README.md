@@ -10,8 +10,7 @@ Users can select their favorite destinations and get a ready-made travel itinera
 
 ---
 <img width="520" height="500" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db"/>
-<img width="520" height="500" alt="image" src=["https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db"](https://github.com/yamunaraguthu/Weather-Tourism-App-Using-Django/blob/main/Screenshot%20(170).png)/>
-<img width="520" height="500" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db"/>
+
 
 I built this project from scratch using command prompt, without using any automatic project generators or templates.
 I practiced all key steps manually:
