@@ -152,8 +152,8 @@ WEATHER_API_KEY = "your_api_key_here"
 
 Developed By
 Yamuna
-🌍 *Python & Django Developer*
-💼 [[LinkedIn Profile](https://www.linkedin.com/in/yamunamca/)]| 🐙 [GitHub Profile](#)
+🌍 Python & Django Developer
+💼 [LinkedIn Profile](https://www.linkedin.com/in/yamunamca/)]| 🐙 [GitHub Profile]((https://github.com/yamunaraguthu))
 
 ---
  🪪 License
