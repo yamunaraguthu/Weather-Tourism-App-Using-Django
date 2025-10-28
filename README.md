@@ -46,9 +46,11 @@ I practiced all key steps manually:
 
 ---
 🧩 Project Structure
+
 amma/
-│
+
 ├── manage.py
+
 ├── weather_project/
 
 │   ├── settings.py
