@@ -122,7 +122,7 @@ Visit 👉 [http://127.0.0.1:8000/](http://127.0.0.1:8000/?city=Afghanistan)]
 * Add it in your Django settings file like this:
 ---
 python
-WEATHER_API_KEY = "your_api_key_here"
+WEATHER_API_KEY = "767c1905e7ab50e9f6751515fd1e7d46"
 ---
 🧠 What I Learned
 * Complete Django project flow (apps, templates, URLs, models, views)
