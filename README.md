@@ -9,6 +9,8 @@ It shows real-time weather updates and tourist places around your chosen city or
 Users can select their favorite destinations and get a ready-made travel itinerary — all in one place.
 
 ---
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/69398fb4-9191-4d81-b979-99dd3d03b1b2" />
+
 <img width="520" height="500" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db"/>
 
 
