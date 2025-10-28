@@ -7,6 +7,7 @@
 This project is a Weather and Tourism App Using Django built completely using Django and command-line setup.
 It shows real-time weather updates and tourist places around your chosen city or location.
 Users can select their favorite destinations and get a ready-made travel itinerary — all in one place.
+
 ---
 <img width="520" height="500" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db"/>
 
@@ -32,7 +33,9 @@ This helped me understand how Django works internally and improved my full-stack
 ✅ country flag— The app displays the country flag based on the user’s selected city or current location.
 
 ✅ Responsive UI — built using HTML, CSS for better experience
+
 ---
+
 🛠️ Technologies Used
 
 | Part       | Technology                        |
@@ -91,27 +94,36 @@ amma/
 ⚡ Setup and Run (Command Prompt Steps)
 
 1️⃣ Create and Activate Virtual Environment
+
 cmd
 python -m venv venv
 venv\Scripts\activate
+
 ----
 2️⃣ Install Django
+
 cmd
 pip install django
+
 ---
 3️⃣ Create Django Project & Apps (done manually)
+
 cmd
 django-admin startproject weather_tourism_project
 cd weather_tourism_project
 python manage.py startapp weather
 python manage.py startapp tourism
 ---
+
 4️⃣ Apply Migrations
+
 cmd
 python manage.py makemigrations
 python manage.py migrate
+
 ---
 5️⃣ Run the Development Server
+
 cmd
 python manage.py runserver
 ---
