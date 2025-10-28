@@ -107,12 +107,12 @@ pip install django
 
 ---
 3️⃣ Create Django Project & Apps (done manually)
-
 cmd
 django-admin startproject weather_tourism_project
 cd weather_tourism_project
 python manage.py startapp weather
 python manage.py startapp tourism
+
 ---
 
 4️⃣ Apply Migrations
@@ -126,6 +126,7 @@ python manage.py migrate
 
 cmd
 python manage.py runserver
+
 ---
 6️⃣ View in Browser
 
@@ -151,6 +152,7 @@ Developed By
 Yamuna
 🌍 Python & Django Developer
 💼 [LinkedIn Profile](https://www.linkedin.com/in/yamunamca/)]| 
+
 ---
  🪪 License
 This project is open-source and available under the **MIT License**.
