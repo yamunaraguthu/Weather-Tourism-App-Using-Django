@@ -135,10 +135,7 @@ Developed By
 Yamuna
 🌍 Python & Django Developer
 💼 [LinkedIn Profile](https://www.linkedin.com/in/yamunamca/)]| 
-🐙 [GitHub Profile]((https://github.com/yamunaraguthu))
 ---
  🪪 License
 This project is open-source and available under the **MIT License**.
 Feel free to use or modify it for learning and development purposes.
-
----
