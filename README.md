@@ -24,9 +24,13 @@ This helped me understand how Django works internally and improved my full-stack
 ---
 ⚙️ Features
 ✅ Real-Time Weather Info and Temperature — fetches live weather details using the OpenWeatherMap API
+
 ✅ Tourist Places Around You — displays beautiful destinations with images
+
 ✅ Local time — Displays current date and time in a clear format
+
 ✅ country flag— The app displays the country flag based on the user’s selected city or current location.
+
 ✅ Responsive UI — built using HTML, CSS for better experience
 ---
 🛠️ Technologies Used
