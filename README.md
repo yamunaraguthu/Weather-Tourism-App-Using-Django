@@ -11,7 +11,7 @@ Users can select their favorite destinations and get a ready-made travel itinera
 ---
 <img width="520" height="500" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db" />
 <img width="520" height="500" alt="image" src="https://github.com/Users/yamun/OneDrive/Pictures/Screenshots/Screenshot(171).png"/>
-<img width="520" height="500" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db" />
+<img width="520" height="500" alt="image" src="https://github.com/user/Users/yamun/OneDrive/Pictures/Screenshots/Screenshot(170).png"/>
 💪 My Effort & Motivation
 
 I built this project from scratch using command prompt, without using any automatic project generators or templates.
