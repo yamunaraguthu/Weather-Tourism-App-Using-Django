@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db" /># Weather-Tourism-App-Using-Django
+# Weather-Tourism-App-Using-Django
 
 🌦️ Weather and Tourism App using Django
 
@@ -9,7 +9,7 @@ It shows real-time weather updates and tourist places around your chosen city or
 Users can select their favorite destinations and get a ready-made travel itinerary — all in one place.
 
 ---
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5c7530a-839f-413e-9dc0-3d23f6a696db" />
 💪 My Effort & Motivation
 
 I built this project from scratch using command prompt, without using any automatic project generators or templates.
