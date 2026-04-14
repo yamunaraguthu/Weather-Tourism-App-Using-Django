@@ -1,53 +1,82 @@
 body {
-    background-color:rgba(140, 129, 146, 0.434);
+    background-color: rgba(140, 129, 146, 0.434);
     font-family: Arial, sans-serif;
     text-align: center;
+    margin: 0; /* 🔥 add */
 }
 
+/* container */
 .container {
-    background-color:#33f2f2;
-    padding:0px;
-    border-radius:10px;
-    width:500px;
-    margin:0px auto;
-    box-shadow:2px 2px 10px rgba(0, 0, 0, 0.2);
+    background-color: #33f2f2;
+    padding: 10px;              /* 🔥 small spacing add */
+    border-radius: 10px;
+    width: 90%;                 /* 🔥 change */
+    max-width: 500px;           /* 🔥 add */
+    margin: 20px auto;          /* 🔥 spacing */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
 }
 
 h1 {
-    color:black;
+    color: black;
 }
 
+/* input */
 input {
-    padding:5px;
-    width:150px;
-    border:1px solid #ccc;
-    border-radius:5px;
+    padding: 6px;
+    width: 70%;                 /* 🔥 change */
+    max-width: 250px;           /* 🔥 add */
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
+/* button */
 button {
-    padding:6px 10px;
-    background-color:blue;
+    padding: 6px 10px;
+    background-color: blue;
     color: white;
-    border:none;
-    cursor:pointer;
-    border-radius:5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 8px;            /* 🔥 add */
 }
 
 button:hover {
-    background-color:darkblue;
+    background-color: darkblue;
 }
 
+/* weather info */
 .weather-info {
-    margin-top:10px;
-    font-size:18px;
-    color:black;
+    margin-top: 10px;
+    font-size: 18px;
+    color: black;
 }
 
+/* images */
 img {
-    /* width:100%; */
-    max-width:200px;
-    max-height:100px;
-    border-radius:5px;
-    margin-top:0px;
-    padding:0px;
+    width: 100%;               /* 🔥 main fix */
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* 🔥 mobile view */
+@media (max-width: 600px) {
+
+    input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    button {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 14px;
+    }
 }
