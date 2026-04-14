@@ -8,34 +8,26 @@
     <link rel="stylesheet" href="{% static 'style.css' %}">
 </head>
 <body>
-
     <div class="container">
         <h1>Weather And Tourism App</h1>
 
-        <form method="get" class="form-box">
+        <form method="get">
             <input type="text" name="city" placeholder="Enter city" required>
             <button type="submit">Search</button>
         </form>
 
-        {% if weather %}
+            {% if weather %}
             <h2>{{ weather.city }}, {{ weather.country }}</h2>
-
-            <div class="weather-box">
-                <p>🌡 Temperature: {{ weather.temperature }}°C</p>
-                <p>🌤 Weather: {{ weather.weather }}</p>
-                <p>🕒 Local Time: {{ weather.local_time }}</p>
-            </div>
-
-            <h3>Tourism Place</h3>
-            <img src="{{ weather.city_image }}" alt="City Image" class="city-img">
-
-            <h3>Country Flag</h3>
-            <img src="{{ weather.country_flag }}" alt="Country Flag" class="flag-img">
-
+            <p>Temperature: {{ weather.temperature }}°C</p>
+            <p>Weather: {{ weather.weather }}</p>
+            <p>Local Time: {{ weather.local_time }}</p>
+            <h3>Tourism_place:</h3>
+            <img src="{{weather.city_image }}" alt="city Image" width="700">
+            <br>
+            <h3>Country_flag:</h3>
+            <img src="{{ weather.country_flag }}" alt="Country Flag" width="100">
         {% else %}
-            <p class="error">City not found. Try again.</p>
+            <p>City not found. Try again.</p>
         {% endif %}
-    </div>
-
 </body>
 </html>
