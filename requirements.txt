@@ -27,3 +27,4 @@ timezonefinder==6.5.8
 tzdata==2025.1
 urllib3==2.3.0
 gunicorn
+whitenoise
