@@ -1,0 +1,37 @@
+ {% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Weather And Tourism App</h1>
+
+        <form method="get">
+            <input type="text" name="city" placeholder="Enter city" required>
+            <button type="submit">Search</button>
+        </form>
+
+            {% if weather %}
+            <h2>{{ weather.city }}, {{ weather.country }}</h2>
+            <p>Temperature: {{ weather.temperature }}°C</p>
+            <p>Weather: {{ weather.weather }}</p>
+            <p>Local Time: {{ weather.local_time }}</p>
+            <h3>Tourism_place:</h3>
+            <img src="{{weather.city_image }}" alt="city Image" width="700">
+            <br>
+            <h3>Country_flag:</h3>
+            <img src="{{ weather.country_flag }}" alt="Country Flag" width="100">
+        {% else %}
+            <p>City not found. Try again.</p>
+        {% endif %}
+</body>
+</html>
+
+
+ 
+
